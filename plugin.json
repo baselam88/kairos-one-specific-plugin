@@ -1,0 +1,17 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "KAIROS AI Systems"
+  },
+  "description": "Finds and verifies the one specific, true fact about a prospect that earns a message its open \u2014 before the message is written.",
+  "keywords": [
+    "kairos",
+    "one",
+    "small business",
+    "specific"
+  ],
+  "license": "MIT",
+  "name": "kairos-one-specific",
+  "repository": "https://github.com/baselam88/kairos-one-specific-plugin",
+  "version": "0.1.0"
+}
